@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: chatroom-server
+  profiles: dev
+  datasource:
+    platform: h2
+  h2:
+    console:
+      enabled: true
