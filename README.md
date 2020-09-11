@@ -5,4 +5,4 @@
 Webapp to handle chatroom web requests
 
 ### Tags
-[Groovy, Application]
+[Groovy, Application, Spring Boot WAR]
